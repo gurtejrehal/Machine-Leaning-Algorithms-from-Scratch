@@ -1,2 +1,7 @@
 # Machine-Leaning-Algorithms-from-Scratch
-Trying to code all the basic ML algorithms from scratch
+
+# Linear Regression
+  headbrain.csv used for training/test data
+
+# Multi Regression
+  student.csv used for training/test data
